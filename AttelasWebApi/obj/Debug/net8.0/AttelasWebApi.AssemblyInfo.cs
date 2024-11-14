@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AttelasWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+700605046ab9dee3eb4ff81ec05e335672545e16")]
 [assembly: System.Reflection.AssemblyProductAttribute("AttelasWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AttelasWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
