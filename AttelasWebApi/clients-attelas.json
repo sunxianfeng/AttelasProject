@@ -1,0 +1,56 @@
+[
+  {
+    "clientId": "C001",
+    "name": "Acme Corp",
+    "email": "info@acmecorp.com",
+    "address": "123 Industrial Road, Springfield"
+  },
+  {
+    "clientId": "C002",
+    "name": "Globex Corporation",
+    "email": "contact@globex.com",
+    "address": "45 Elm Street, Capital City"
+  },
+  {
+    "clientId": "C003",
+    "name": "Soylent Corp",
+    "email": "hello@soylent.com",
+    "address": "67 Green Avenue, Metropolis"
+  },
+  {
+    "clientId": "C004",
+    "name": "Initech",
+    "email": "support@initech.com",
+    "address": "99 Startup Lane, Silicon Valley"
+  },
+  {
+    "clientId": "C005",
+    "name": "Umbrella Corporation",
+    "email": "admin@umbrella.com",
+    "address": "100 Biohazard Blvd, Racoon City"
+  },
+  {
+    "clientId": "C006",
+    "name": "Stark Industries",
+    "email": "tech@starkindustries.com",
+    "address": "200 Iron Avenue, Malibu"
+  },
+  {
+    "clientId": "C007",
+    "name": "Wayne Enterprises",
+    "email": "info@wayneenterprises.com",
+    "address": "1 Gotham Plaza, Gotham"
+  },
+  {
+    "clientId": "C008",
+    "name": "Tyrell Corporation",
+    "email": "replicants@tyrell.com",
+    "address": "700 Future Street, Los Angeles"
+  },
+  {
+    "clientId": "C009",
+    "name": "Cyberdyne Systems",
+    "email": "tech@cyberdyne.com",
+    "address": "550 AI Drive, San Francisco"
+  }
+]

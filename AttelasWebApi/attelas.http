@@ -1,0 +1,6 @@
+@attelas_HostAddress = http://localhost:5228
+
+GET {{attelas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
