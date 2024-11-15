@@ -1,6 +1,3 @@
-
-using Newtonsoft.Json;
-
 namespace Attelas.Services;
 
 
@@ -64,16 +61,6 @@ public class SqlParserService : ISqlParserService
         }
         
         this._sqlStatement = string.Join(" ", clauses);;
-        // if (this._sqlStatement.Contains("FROM") || this._sqlStatement.Contains("from"))
-        // {
-        //     int index = this._sqlStatement.IndexOf("FROM");
-        //     this._sqlStatement = this._sqlStatement.Substring(index);
-        //     if (this._sqlStatement.Split(" ").Length < 2)
-        //     {
-        //         throw new FormatException();
-        //     }
-        //     this._tableName = this._sqlStatement.Split(" ")[1].Replace("\n", string.Empty).Trim().ToLower();
-        // }
     }
     
     public bool IsQuery()

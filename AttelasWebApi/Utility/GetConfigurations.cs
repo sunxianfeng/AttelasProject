@@ -1,4 +1,3 @@
-
 namespace Attelas.Utility;
 
 public static class GetConfigurations

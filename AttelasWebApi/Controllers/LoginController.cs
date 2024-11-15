@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Attelas.Controllers;
 
-
 [ApiController]
 [Route("/v1/login")]
 public class LoginController : ControllerBase

@@ -1,4 +1,3 @@
-using System.Collections.Immutable;
 using Attelas.Models;
 using Attelas.Utility;
 using Microsoft.EntityFrameworkCore;

@@ -2,7 +2,6 @@ using Attelas.Controllers;
 using Attelas.Models;
 using Attelas.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using NUnit.Framework;

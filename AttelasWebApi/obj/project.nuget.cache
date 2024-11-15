@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "gNFlo7KySOc=",
   "success": true,
-  "projectFilePath": "/Users/xianfengsun/RiderProjects/attelas/AttelasWebApi/AttelasWebApi.csproj",
+  "projectFilePath": "/Users/xianfengsun/RiderProjects/Attelas/AttelasWebApi/AttelasWebApi.csproj",
   "expectedPackageFiles": [
     "/Users/xianfengsun/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/xianfengsun/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
