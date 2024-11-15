@@ -31,6 +31,10 @@ public class ClientController: ControllerBase
         try
         {
             var infoList = await this._clientService.EnquiryClientsInfoAsync(new List<string> { clientId });
+            if (infoList.Count() < 1)
+            {
+                return StatusCode((int)HttpStatusCode.NotFound);
+            }
             var info = infoList.First();
             return this.Ok(info);
         }
