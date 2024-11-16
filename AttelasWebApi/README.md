@@ -18,7 +18,7 @@ Besides, it also provides llm interaction api which receives a text segment and 
 wise response for you.
 
 
-![Screenshot 2024-11-14 at 20.24.17.png](../../attelas/AttelasWebApi/StaticContent/Screenshot%202024-11-14%20at%2020.24.17.png)
+![Screenshot 2024-11-14 at 20.24.17.png](StaticContent/Screenshot%202024-11-14%20at%2020.24.17.png)
 
 # Environment
 - mysql 9.0
@@ -32,16 +32,16 @@ wise response for you.
 # How to use llm interaction in local
 
 1. get your api-key and replace it in ./FlaskProject/llmGenerateSql.py, meanwhile install zhipuai module
-![Screenshot 2024-11-14 at 21.06.18.png](../../attelas/AttelasWebApi/StaticContent/Screenshot%202024-11-14%20at%2021.06.18.png)
+![Screenshot 2024-11-14 at 21.06.18.png](StaticContent/Screenshot%202024-11-14%20at%2021.06.18.png)
 
 2. run python flask application
 ![Screenshot 2024-11-16 at 12.19.41.png](StaticContent/Screenshot%202024-11-16%20at%2012.19.41.png)
 
 3. configure this url in appsettings.Development.json
-![Screenshot 2024-11-14 at 20.50.53.png](../../attelas/AttelasWebApi/StaticContent/Screenshot%202024-11-14%20at%2020.50.53.png)
+![Screenshot 2024-11-14 at 20.50.53.png](StaticContent/Screenshot%202024-11-14%20at%2020.50.53.png)
 
 4. configure this mysql connection string
- ![Screenshot 2024-11-14 at 21.32.27.png](../../attelas/AttelasWebApi/StaticContent/Screenshot%202024-11-14%20at%2021.32.27.png)
+ ![Screenshot 2024-11-14 at 21.32.27.png](StaticContent/Screenshot%202024-11-14%20at%2021.32.27.png)
 
 5. run .net application
 
