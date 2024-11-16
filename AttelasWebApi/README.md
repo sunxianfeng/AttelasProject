@@ -5,6 +5,8 @@ This is a webApi application based .net8 offering 3 main functionalities via Inv
 - submit new invoice
 - enquiry client info
 
+To be simple, we didn't define different types of datamodel in different layers, such as: VO, PO, DO.
+
 The data will be stored in mysql based on entity framework core, but we will use in-memory database for unit test by commenting the codes in AttelasDbContex.cs like this:
 ```c#
 //string? connectionString = GetConfigurations.GetConfiguration("ConnectionStrings:AttelasDataBase");//"Server=.;Database=AttelasWebApi;";
@@ -33,8 +35,7 @@ wise response for you.
 ![Screenshot 2024-11-14 at 21.06.18.png](../../attelas/AttelasWebApi/StaticContent/Screenshot%202024-11-14%20at%2021.06.18.png)
 
 2. run python flask application
-
-![Screenshot 2024-11-14 at 20.49.05.png](../../attelas/AttelasWebApi/StaticContent/Screenshot%202024-11-14%20at%2020.49.05.png)
+![Screenshot 2024-11-16 at 12.19.41.png](StaticContent/Screenshot%202024-11-16%20at%2012.19.41.png)
 
 3. configure this url in appsettings.Development.json
 ![Screenshot 2024-11-14 at 20.50.53.png](../../attelas/AttelasWebApi/StaticContent/Screenshot%202024-11-14%20at%2020.50.53.png)

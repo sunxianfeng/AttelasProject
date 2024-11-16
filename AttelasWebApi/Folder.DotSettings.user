@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6a3a36eb_002D5df8_002D47c7_002D8d57_002D73e604f8c02f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestTriggerQueryInvoiceWorkflowAsync" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::2AFE8C55-E014-064A-6F20-525E00349A8B::net8.0::Attelas.UnitTest.ServicesTest.TriggerWorkflowsServiceTest.TestTriggerQueryInvoiceWorkflowAsync&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::2AFE8C55-E014-064A-6F20-525E00349A8B::net8.0::Attelas.UnitTest.ServicesTest.TriggerWorkflowsServiceTest.TestTriggerSubmitInvoiceWorkflowAsync&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
